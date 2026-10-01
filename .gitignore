@@ -1,0 +1,6 @@
+/config.local.php
+/storage/uploads/*
+!/storage/uploads/.gitkeep
+/storage/*.xlsx
+.idea/
+.vscode/
